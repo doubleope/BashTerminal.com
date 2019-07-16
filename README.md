@@ -1,1 +1,1 @@
-# bashterminal.com
+# BashTerminal.com
