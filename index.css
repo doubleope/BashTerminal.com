@@ -1,0 +1,26 @@
+ul {
+    list-style: none;
+}
+
+aside {
+    border-right: 1px solid black;
+    width: 10%;
+    text-align: center;
+    padding: 0;
+    height: 100%;
+    padding-top: 20px;
+    margin: 0;
+    display: inline-block;
+}
+
+.container {
+    text-align: center;
+    background: rgb(180, 177, 177);
+    margin-top: 0;
+    display: inline-block;
+    width: 80%;
+}
+
+body {
+    padding: 0;
+}
