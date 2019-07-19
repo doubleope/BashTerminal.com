@@ -37,3 +37,8 @@ h1 {
 .override {
     color: inherit;
 }
+
+.point {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
