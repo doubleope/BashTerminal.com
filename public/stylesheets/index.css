@@ -12,15 +12,6 @@ aside {
     padding-left: 10px;
 }
 
-.container {
-   
-    
-    
-}
-
-body {
-    
-}
 
 h1 {
     text-align: center;
@@ -41,4 +32,5 @@ h1 {
 .point {
     margin-top: 20px;
     margin-bottom: 20px;
+    border-top: 1px solid black;
 }   
